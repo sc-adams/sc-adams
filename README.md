@@ -4,7 +4,7 @@
 <!-- TABLE -->
 | Projects |  About |
 |---|---|
-|  <img width="670" height="600" alt="image" src="https://github.com/user-attachments/assets/795d7b29-5fa5-49c7-8921-453ab9001e78" /> | RSA Algorithm Encrypter and decrypter that takes input in English and translates the message to a comma separated encrypted message. |
+|  <img width="670" height="600" alt="image" src="https://github.com/user-attachments/assets/795d7b29-5fa5-49c7-8921-453ab9001e78" /> | RSA Algorithm Encrypter and decrypter that takes input in English and translates the message to a comma-separated encrypted message. |
 | <img width="950" height="700" alt="Screenshot 2023-02-02 184232" src="https://github.com/user-attachments/assets/8e7996c5-8c77-4cfd-96bf-5abbd1d464ce" />| This is a fractal animation programmed in C++ with OpenGL |
 | <img width="1630" height="900" alt="Image 11-5-25 at 12 53 PM" src="https://github.com/user-attachments/assets/1dad0b7d-c89e-4713-b1fa-68d56c1d553f" /> | This is a Space Shooter Game programmed in C++ using OpenGL and GLFW libraries. The goal is to take out the spaceships without taking damage. Each hit removes one heart from your life pool. | 
 | ![509749725-4cc19615-6fe8-4652-839f-b2c7fb2bf1a3](https://github.com/user-attachments/assets/c3467527-143b-48e1-a4fa-bb101f96f954)| This is my cross-platform C++ OpenGL / Metal Game Engine. | 
