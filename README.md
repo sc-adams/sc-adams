@@ -10,6 +10,7 @@
 | <img width="1630" height="900" alt="Image 11-5-25 at 12 53 PM" src="https://github.com/user-attachments/assets/1dad0b7d-c89e-4713-b1fa-68d56c1d553f" /> | This is a Space Shooter Game programmed in C++ using OpenGL and GLFW libraries. The goal is to eliminate the spaceships without sustaining any damage. Each hit removes one heart from your life pool. | 
 | ![509749725-4cc19615-6fe8-4652-839f-b2c7fb2bf1a3](https://github.com/user-attachments/assets/c3467527-143b-48e1-a4fa-bb101f96f954)| This is my cross-platform C++ OpenGL / Metal Game Engine. | 
 
+Check out my Portfolio site at [https://sheraadams.github.io/sc-adams.io](https://github.com/sc-adams/sc-adams.github.io)
 <!-- skills -->
 <p align="center">
   <a href="https://skillicons.dev">
